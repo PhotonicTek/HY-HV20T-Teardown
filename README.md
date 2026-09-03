@@ -106,6 +106,6 @@ Portions of this documentation and formatting were drafted with the use of AI wr
 
 ## See Also
 
-- Video walkthrough of the full teardown and tracing process: *[link your video here]*
+- Video walkthrough of the full teardown and tracing process: *[link added soon!]*
 - EasyEDA (free schematic tool used here): https://easyeda.com
 - Krita (free image editor used for annotation and layer overlay): https://krita.org
