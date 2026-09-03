@@ -1,0 +1,43 @@
+ID,Designator,Quantity,Footprint,Name,Notes 
+1,U1,1,SSOP-24_L8.6-W3.9-P0.64,DY1900A  23F49F51,N/A
+2,U2,1,SOIC-8_L5.0-W4.0-P1.27,XL1509-12E1  40991,https://www.digikey.ca/en/products/detail/umw/XL1509-12/24889489
+3,U3,1,SSOP-8_L5.0-W4.0-P1.27,AP2001D  DY2418,N/A
+4,U4,1,SOT-89-3_L4.5-W2.5-P1.50,78L05,https://www.digikey.ca/en/products/detail/evvo/78L05/24370087
+5,U5,1,SOT-23-3_L3.0-W1.7-P0.95,J3Y,https://www.digikey.ca/en/products/detail/nextgen-components/S8050/16602420
+6,"D1, D2",2,SMA_L4.3-W2.6-LS5.2-RD,SS34,https://www.digikey.com/en/products/detail/mdd/SS34/15911595
+7,D3,1,SMA_L4.3-W2.6-LS5.2-RD,SS24,https://www.digikey.com/en/products/detail/nextgen-components/SS24/15911587?utm_source=chatgpt.com
+8,D4 -D11,8,SOD-123FL_L2.7-W1.8-LS3.8-RD,NG,https://www.digikey.ca/en/products/detail/mcc-micro-commercial-components/SMF5-0A-TP/2268353
+9,L1,1,IND-SMD_L11.5-W10.0_FXL1040,47uH,https://www.lcsc.com/product-detail/C5307656.html
+10,H1,1,MICRO-USB-SMD,USB Micro B,https://www.lcsc.com/product-detail/C2927308.html
+11,H2,1,TF-SMD_TF-15-15,Micro SD,https://www.lcsc.com/product-detail/C393941.html
+12,H3,1,TENSILITY_54-00177,2.5mm Jack,https://www.digikey.ca/en/products/detail/tensility-international-corp/54-00177/12140430
+13,DIP,1,SW-TH_L9.6-W9.2-P2.54_DS-03RP,ON DIP,https://www.lcsc.com/product-detail/C7502794.html
+14,LED,1,603,LED,Generic
+15,"R1,R2, R3",3,603,20k Ohm,Generic
+16,R4,1,603,0 Ohm,Generic
+17,"R5,R9,R10,R11,R12,R15",6,603,3.3k Ohm,Generic
+18,"R13,R14,R16,R17,R18",5,603,22k Ohm,Generic
+19,"R6,R7",2,603,100 Ohm,Generic
+20,"R8,R27",2,603,4.7 Ohm,Generic
+21,"R19,R20,R21,R22,R23,R24,R25,R26",8,603,1k Ohm,Generic
+22,R28,1,RES-ADJ-TH_WH06-2C-103,10k Ohm Trim Pot,https://www.lcsc.com/product-detail/C5205043.html
+23,C1,1,CAP-SMD_BD8.0-L8.3-W8.3-FD,220uF  35V,https://www.lcsc.com/product-detail/C125981.html
+24,C2,1,CAP-SMD_BD8.0-L8.3-W8.3-FD,470uF 16V,https://www.lcsc.com/product-detail/C340715.html
+25,"C3,C4,C5,C7,C11,C12,C15,C16,C17",1,603,1uF,Generic
+26,"C6,C8,C9,C10,C13,C14,C18",1,603,0.1uF,Generic
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,, ,
